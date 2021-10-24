@@ -10,3 +10,19 @@
 .left-menu{
     list-style-type: none;
 }
+.nav-link:hover{
+    background-color: darkblue;
+}
+.profile-image-frame{
+    margin-top: 90px;
+}
+
+.profile-image{
+    width: 150px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
